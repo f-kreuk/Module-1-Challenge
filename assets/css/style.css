@@ -6,44 +6,57 @@
 
 body {
     background-color: #d9dcd6;
+    display: flex;
+    flex-direction: column;
 }
 
+
+/* */
 header {
+    display: flex;
     padding: 20px;
+    align-items: center;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
 
 header h1 {
-    display: inline-block;
+    display: block;
     font-size: 48px;
+    float: right;
 }
 
 header h1 .seo {
     color: #d9dcd6;
 }
 
-header nav {
+nav {
     padding-top: 15px;
     margin-right: 20px;
-    float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
+    flex-direction: column;
 }
 
-header nav ul {
+nav ul {
     list-style-type: none;
+    display: flex;
+    float: right;
+    justify-content: space-between;
 }
 
-header nav ul li {
-    display: inline-block;
+nav ul li {
+    display: inline;
+    text-align: center;
+    float: right;
     margin-left: 25px;
 }
 
 a {
     color: #ffffff;
     text-decoration: none;
+    float: right;
 }
 
 p {
