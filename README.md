@@ -3,6 +3,8 @@
 Description
 This website was created by Horiseon Social Solution Services, Inc., an entity specializing in search engine optimization, online reputation management, and social media marketing. Information is provided for each of these services, as well as information for lead generation, brand awareness, and cost management.
 
+The following image demonstrates the web application's appearence: assets\images\Horiseon-website-snapshot.PNG
+
 Installation
 N/A
 

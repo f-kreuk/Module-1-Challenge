@@ -27,7 +27,7 @@ header {
 
 /* h1-h4 are the sub-headings, organized by font size. p is a paragraph element.
  The ".seo" refers to class applied within the main header text Horiseon. 
- This changes the color of "seo," which stands for search engine optimization. */
+ This changes the color of "seo," which stands for search engine optimization.*/
 h1 {
     display: block;
     font-size: 48px;
