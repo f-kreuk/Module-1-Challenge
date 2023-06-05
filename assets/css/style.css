@@ -10,6 +10,8 @@ body {
     background-color: #d9dcd6;
     display: flex;
     flex-direction: column;
+    flex-wrap:wrap;
+    min-width: 1250px;
 }
 
 /* Display flex and justify-content space-between allows the header 
@@ -130,15 +132,17 @@ and padding set the margin/padding values. Width of 20% means this stretches whe
 is resized. The article section is set to 75% so that and a 20% aside will fit on screen. Height
 was changed to 940px to match the article section. */
 aside {
+    display:inline-block;
     margin-right: 20px;
     padding: 20px;
     float: right;
     width: 20%;
-    height: 940px;
+    min-height: 940px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
     margin-bottom: 32px;
     color: #ffffff;
+    min-width: 200px;
 }
 
 aside img {
