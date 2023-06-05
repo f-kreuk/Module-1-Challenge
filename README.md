@@ -5,6 +5,8 @@ This website was created by Horiseon Social Solution Services, Inc., an entity s
 
 The following image demonstrates the web application's appearence: assets\images\Horiseon-website-snapshot.PNG
 
+The following link takes you to the deployed application: 
+
 Installation
 N/A
 
