@@ -24,7 +24,6 @@ header {
 header h1 {
     display: block;
     font-size: 48px;
-    float: right;
 }
 
 header h1 .seo {
@@ -124,6 +123,7 @@ aside {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
+    min-width: 800px;
 }
 
 .online-reputation-management {
@@ -133,6 +133,7 @@ aside {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
+    min-width: 800px;
 }
 
 .social-media-marketing {
@@ -142,6 +143,7 @@ aside {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
+    min-width: 800px;
 }
 
 .search-engine-optimization img {
